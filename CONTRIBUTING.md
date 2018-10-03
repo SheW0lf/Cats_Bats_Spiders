@@ -8,9 +8,10 @@
 
 #### Name: [Willian Rodrigues](https://github.com/willianrod)
 
-- Bio: Studing Computer Science
+- Bio: Studying Computer Science
 
 #### Name: [Amaya Lim](https://github.com/nightrainlily)
+
 - Bio: CS major
 
 #### Name: [Aditya Krishnakumar](https://github.com/beingadityak)
@@ -21,6 +22,10 @@
 
 - Bio: An aspiring Gopher. Open-sourcerer.
 
+#### Name: [Simran Gambani](https://github.com/gambani-simran)
+
+- Bio: Computer science undergraduate
+
 #### Name: [Dhanraj Acharya](https://github.com/drex44)
 
 - Bio: User of both old and new techs!
@@ -30,5 +35,7 @@
 - Bio: CS Undergrad, Universitas Indonesia.
 
 #### Name: [Mario Moreno](https://github.com/soymariomoreno)
+
 - Bio: Fullstack Web & Bot Developer
+
 
