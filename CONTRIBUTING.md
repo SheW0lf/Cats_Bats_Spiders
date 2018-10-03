@@ -38,4 +38,6 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Jarrod Yellets](https://github.com/jarrodyellets)
 
+- Bio: Front-End Developer and Open Source Contributer
