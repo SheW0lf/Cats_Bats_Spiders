@@ -14,3 +14,5 @@
 - Bio: An aspiring Gopher. Open-sourcerer.
 
 
+#### Name: [Mario Moreno](https://github.com/soymariomoreno)
+- Bio: Fullstack Web & Bot Developer
