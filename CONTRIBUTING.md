@@ -42,6 +42,10 @@
 
 - Bio: Sr. Director of Technology @ Grafik
 
+#### Name: [Tyler Maclay](https://github.com/tylermaclay)
+
+- Bio: Hobbiest
+
 #### Name: [Brenton Moodley](https://github.com/breakstate)
 
 - Bio: Studying at WeThinkCode_, South Africa.
