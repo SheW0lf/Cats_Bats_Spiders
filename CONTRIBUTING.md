@@ -38,4 +38,8 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Tyler Maclay](https://github.com/tylermaclay)
+
+- Bio: Hobbiest
+
 
