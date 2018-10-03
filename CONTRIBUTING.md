@@ -13,4 +13,9 @@
 #### Name: [Richard Burk](https://github.com/rbo13)
 - Bio: An aspiring Gopher. Open-sourcerer.
 
+**Name** : [Jonathan FIlbert](https://github.com/jonathanfilbert)
+
+* Bio: CS Undergrad, Universitas Indonesia.
+
+
 
