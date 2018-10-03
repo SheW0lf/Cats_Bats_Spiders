@@ -31,7 +31,7 @@ You may complete this challenge in any language you choose!
 
 6. Optional: Add your name to the CONTRIBUTIONS.md file in the following format
 ```
-    Name: (your name)[Github link]
+    #### Name: (your name)[Github link]
     - Bio: anything you want to tell us about yourself!
 ```
 7. Add and commit your changes
