@@ -41,3 +41,8 @@
 #### Name: [Matt Keith](https://github.com/redyetico)
 
 - Bio: Sr. Director of Technology @ Grafik
+
+#### Name: [Brenton Moodley](https://github.com/breakstate)
+
+- Bio: Studying at WeThinkCode_, South Africa.
+
