@@ -38,6 +38,10 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Professor Renderer](https://github.com/Renderer-RCT2)
+
+- Bio: Certified bear scientist who's interested in game development
+
 #### Name: [Daniel Del Rio](https://github.com/daniddelrio)
 
 - Bio: CS Undergrad, Philippines
