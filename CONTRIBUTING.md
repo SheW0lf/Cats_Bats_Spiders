@@ -1,26 +1,34 @@
 #### Name: [Amber Cyr](https://github.com/SheW0lf)
+
 - Bio: A scientist who moonlights as a web developer
 
 #### Name: [leah pleurodon](https://github.com/leahpleurodon)
+
 - Bio: A junior developer who loves the Beatles, heavy metal and disco.
 
 #### Name: [Willian Rodrigues](https://github.com/willianrod)
+
 - Bio: Studing Computer Science
 
 #### Name: [Amaya Lim](https://github.com/nightrainlily)
 - Bio: CS major
 
 #### Name: [Aditya Krishnakumar](https://github.com/beingadityak)
+
 - Bio: Cloud Operations Engineer at Crest Data Systems
-=======
+
 #### Name: [Richard Burk](https://github.com/rbo13)
+
 - Bio: An aspiring Gopher. Open-sourcerer.
 
-**Name** : [Jonathan FIlbert](https://github.com/jonathanfilbert)
+#### Name: [Dhanraj Acharya](https://github.com/drex44)
 
-* Bio: CS Undergrad, Universitas Indonesia.
+- Bio: User of both old and new techs!
 
+#### Name: [Jonathan FIlbert](https://github.com/jonathanfilbert)
 
+- Bio: CS Undergrad, Universitas Indonesia.
 
 #### Name: [Mario Moreno](https://github.com/soymariomoreno)
 - Bio: Fullstack Web & Bot Developer
+
