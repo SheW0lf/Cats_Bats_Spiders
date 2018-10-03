@@ -7,6 +7,10 @@
 #### Name: [Willian Rodrigues](https://github.com/willianrod)
 - Bio: Studing Computer Science
 
+#### Name: [Aditya Krishnakumar](https://github.com/beingadityak)
+- Bio: Cloud Operations Engineer at Crest Data Systems
+=======
 #### Name: [Richard Burk](https://github.com/rbo13)
 - Bio: An aspiring Gopher. Open-sourcerer.
+
 
