@@ -1,4 +1,10 @@
 <?php
+    /**
+     * Author: Damian Dabrowski
+     * Language: PHP
+     * Github: https://github.com/ddcodepl
+     */
+
     $elements = [];
     for ($i = 1; $i <= 100; $i++) {
         if ($i % 3 === 0) {
