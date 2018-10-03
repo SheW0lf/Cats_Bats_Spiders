@@ -38,4 +38,6 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Brenton Moodley](https://github.com/breakstate)
 
+- Bio: Studying at WeThinkCode_, South Africa.
