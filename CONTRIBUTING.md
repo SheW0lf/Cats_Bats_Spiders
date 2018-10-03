@@ -41,3 +41,26 @@
 #### Name: [Jarrod Yellets](https://github.com/jarrodyellets)
 
 - Bio: Front-End Developer and Open Source Contributer
+
+#### Name: [Professor Renderer](https://github.com/Renderer-RCT2)
+
+- Bio: Certified bear scientist who's interested in game development
+
+#### Name: [Daniel Del Rio](https://github.com/daniddelrio)
+
+- Bio: CS Undergrad, Philippines
+
+#### Name: [Matt Keith](https://github.com/redyetico)
+
+- Bio: Sr. Director of Technology @ Grafik
+
+#### Name: [Tyler Maclay](https://github.com/tylermaclay)
+
+- Bio: Hobbiest
+
+#### Name: [Brenton Moodley](https://github.com/breakstate)
+
+- Bio: Studying at WeThinkCode_, South Africa.
+
+
+
