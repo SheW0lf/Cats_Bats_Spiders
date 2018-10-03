@@ -38,6 +38,10 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Jarrod Yellets](https://github.com/jarrodyellets)
+
+- Bio: Front-End Developer and Open Source Contributer
+
 #### Name: [Professor Renderer](https://github.com/Renderer-RCT2)
 
 - Bio: Certified bear scientist who's interested in game development
