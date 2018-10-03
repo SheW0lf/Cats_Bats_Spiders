@@ -44,4 +44,4 @@ You may complete this challenge in any language you choose!
 9. Wait for your PR review and merge approval!
 
 
-#Happy Hacktober!
+# Happy Hacktober!
