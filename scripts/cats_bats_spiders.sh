@@ -11,7 +11,6 @@ do
     then
         if [[ $b == 0 ]]
             then echo "Spiders"
-            continue;
         fi
         echo "Cats"
     elif [[ $b == 0 ]]
