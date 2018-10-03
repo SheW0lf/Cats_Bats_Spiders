@@ -1,3 +1,7 @@
+// Author: Willian Rodrigues Barbosa
+// Language: C
+// Github: https://github.com/willianrod
+
 #include <stdio.h>
 
 int main () {
