@@ -38,4 +38,6 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Daniel Del Rio](https://github.com/daniddelrio)
 
+- Bio: CS Undergrad, Philippines
