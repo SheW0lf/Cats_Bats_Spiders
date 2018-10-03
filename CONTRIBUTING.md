@@ -42,4 +42,21 @@
 
 - Bio: Certified bear scientist who's interested in game development
 
+#### Name: [Daniel Del Rio](https://github.com/daniddelrio)
+
+- Bio: CS Undergrad, Philippines
+
+#### Name: [Matt Keith](https://github.com/redyetico)
+
+- Bio: Sr. Director of Technology @ Grafik
+
+#### Name: [Tyler Maclay](https://github.com/tylermaclay)
+
+- Bio: Hobbiest
+
+#### Name: [Brenton Moodley](https://github.com/breakstate)
+
+- Bio: Studying at WeThinkCode_, South Africa.
+
+
 
