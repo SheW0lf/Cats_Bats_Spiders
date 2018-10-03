@@ -5,12 +5,15 @@
 - Bio: A junior developer who loves the Beatles, heavy metal and disco.
 
 #### Name: [Willian Rodrigues](https://github.com/willianrod)
-- Bio: Studing Computer Science
+- Bio: Studying Computer Science
 
 #### Name: [Aditya Krishnakumar](https://github.com/beingadityak)
 - Bio: Cloud Operations Engineer at Crest Data Systems
 =======
 #### Name: [Richard Burk](https://github.com/rbo13)
 - Bio: An aspiring Gopher. Open-sourcerer.
+
+#### Name: [Simran Gambani](https://github.com/gambani-simran)
+- Bio: Computer science undergraduate
 
 
