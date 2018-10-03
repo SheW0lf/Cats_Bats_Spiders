@@ -38,4 +38,6 @@
 
 - Bio: Fullstack Web & Bot Developer
 
+#### Name: [Matt Keith](https://github.com/redyetico)
 
+- Bio: Sr. Director of Technology @ Grafik
