@@ -10,6 +10,9 @@
 
 - Bio: Studing Computer Science
 
+#### Name: [Amaya Lim](https://github.com/nightrainlily)
+- Bio: CS major
+
 #### Name: [Aditya Krishnakumar](https://github.com/beingadityak)
 
 - Bio: Cloud Operations Engineer at Crest Data Systems
@@ -21,3 +24,11 @@
 #### Name: [Dhanraj Acharya](https://github.com/drex44)
 
 - Bio: User of both old and new techs!
+
+#### Name: [Jonathan FIlbert](https://github.com/jonathanfilbert)
+
+- Bio: CS Undergrad, Universitas Indonesia.
+
+#### Name: [Mario Moreno](https://github.com/soymariomoreno)
+- Bio: Fullstack Web & Bot Developer
+
