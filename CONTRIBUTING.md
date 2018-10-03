@@ -3,3 +3,6 @@
 
 #### Name: [Willian Rodrigues](https://github.com/willianrod)
 - Bio: Studing Computer Science
+
+#### Name: [Richard Burk](https://github.com/rbo13)
+- Bio: An aspiring Gopher. Open-sourcerer.
