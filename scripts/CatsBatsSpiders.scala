@@ -1,3 +1,9 @@
+/**
+* Author: Damian Dabrowski
+* Language: Scala
+* Github:
+*/
+
 object CatsBatsSpiders {
    def main(args: Array[String]) {
       var i = 0;
