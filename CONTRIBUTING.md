@@ -39,4 +39,6 @@
 - Bio: Fullstack Web & Bot Developer
 #### Name: [Murtuza Ali](https://github.com/Theabominog)
 
+- Bio: CS student finding his feet.
+
 
