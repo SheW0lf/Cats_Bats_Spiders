@@ -62,6 +62,10 @@
 
 - Bio: Studying at WeThinkCode_, South Africa.
 
-#### Name: [Germ·n Aguilera](https://github.com/germmand)
+#### Name: [Germ√°n Aguilera](https://github.com/germmand)
 
 - Bio: Mid-Senior Software Developer.
+
+#### Name: [Shradha Gupta](https://github.com/shradha14)
+
+- Bio: Studying in Jaypee University of Engineering And Technology.
