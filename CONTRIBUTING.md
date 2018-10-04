@@ -74,6 +74,11 @@
 
 - Bio: Studying in Jaypee University of Engineering And Technology.
 
+#### Name: [Yannick Le Roux](https://github.com/YannickLeRoux)
+
+- Bio: Web Developer in the making.
+
 #### Name: [Teerapong Tienkul](https://github.com/teerapongt)
 
 - Bio: Software Developer, Thailand.
+
