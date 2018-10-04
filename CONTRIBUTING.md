@@ -66,6 +66,11 @@
 
 - Bio: Mid-Senior Software Developer.
 
+#### Name: [Gwenaelle Cunha Sergio](https://github.com/gcunhase)
+
+- Bio: Computer Engineer, Brazilian, PhD student in South Korea
+
 #### Name: [Shradha Gupta](https://github.com/shradha14)
 
 - Bio: Studying in Jaypee University of Engineering And Technology.
+
