@@ -65,3 +65,6 @@
 #### Name: [Germán Aguilera](https://github.com/germmand)
 
 - Bio: Mid-Senior Software Developer.
+
+#### Name: [Gwenaelle Cunha Sergio](https://github.com/gcunhase)
+- Bio: Computer Engineer, Brazilian, PhD student in South Korea
