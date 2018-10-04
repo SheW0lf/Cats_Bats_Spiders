@@ -74,3 +74,6 @@
 
 - Bio: Studying in Jaypee University of Engineering And Technology.
 
+#### Name: [Teerapong Tienkul](https://github.com/teerapongt)
+
+- Bio: Software Developer, Thailand.
