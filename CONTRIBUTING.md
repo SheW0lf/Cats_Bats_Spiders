@@ -62,5 +62,6 @@
 
 - Bio: Studying at WeThinkCode_, South Africa.
 
+#### Name: [Germán Aguilera](https://github.com/germmand)
 
-
+- Bio: Mid-Senior Software Developer.
