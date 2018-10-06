@@ -4,10 +4,10 @@ Language: JS
 Github: https://github.com/MarcelloVSilva
 */
 
-count = 1;
-divisiblePer3 = false
-divisiblePer5 = false
-animals = ""
+let count = 1;
+let divisiblePer3 = false
+let divisiblePer5 = false
+let animals = ""
 
 while(count <= 100){
     if(divisiblePer3Fn(count)) 
@@ -24,7 +24,7 @@ while(count <= 100){
     }
 
     animals ? console.log({animals}) : console.log({count}) 
-    
+
     resetVars();
     count++
 }
