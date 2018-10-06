@@ -82,3 +82,7 @@
 
 - Bio: Software Developer, Thailand.
 
+#### Name: [Marcello Silva](https://github.com/MarcelloVSilva)
+
+- Bio: Brazilian Software Developer.
+
