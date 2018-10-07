@@ -46,6 +46,9 @@
 #### Name: [Mario Moreno](https://github.com/soymariomoreno)
 
 - Bio: Fullstack Web & Bot Developer
+#### Name: [Murtuza Ali](https://github.com/Theabominog)
+
+- Bio: CS student finding his feet.
 
 
 #### Name: [Jarrod Yellets](https://github.com/jarrodyellets)
