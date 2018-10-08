@@ -112,3 +112,5 @@
 
 - Bio: Biotechnology graduate
 
+#### Name: [Becca Hao](https://github.com/haobecca)
+    - Bio: Chocolate engineer and aspiring data scientist.
