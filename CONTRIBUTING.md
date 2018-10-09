@@ -119,3 +119,7 @@
 #### Name: [THAWATCHAI SINGNGAM](https://github.com/merxer)
 
 - Bio: DevOps Engineer
+
+#### Name: [Garfield Lee](https://github.com/Garfield550)
+
+- Bio: Web developer, China
