@@ -115,3 +115,7 @@
 #### Name: [Becca Hao](https://github.com/haobecca)
 
 - Bio: Chocolate engineer and aspiring data scientist.
+
+#### Name: [THAWATCHAI SINGNGAM](https://github.com/merxer)
+
+- Bio: DevOps Engineer
