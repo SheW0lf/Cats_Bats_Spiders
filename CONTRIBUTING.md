@@ -123,3 +123,7 @@
 #### Name: [Garfield Lee](https://github.com/Garfield550)
 
 - Bio: Web developer, China
+
+### Name: [Michael McClean](https://github.com/mdmcclean)
+
+-Bio: Currently in the Tech Elevator C# bootcamp in Cincinnati, Ohio
