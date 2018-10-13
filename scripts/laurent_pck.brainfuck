@@ -1,0 +1,122 @@
+Author: Pierrick
+Language: french
+Github: laurent-pck
+
+[-]++									put a at 2
+>[-]									put b at 0 (static)
+>[-]+									put c at 1 (static)
+>[-]									put d at 0 (static)
+>[-]++++ 								put e at 4
+>[-]									put f at 0 (static)
+>[-]+									put g at 1 (static)
+>[-]									put h at 0 (static)
+>[-] 									put i at 0
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	put j at 100
+>[-]++++++++++							put k at 10
+>[-]									put l at 0 (static)
+>[-]+									put m at 1 (static)
+>[-]									put n at 0 (static)
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++	put o at 0 (ASCII 48) dizaines
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++	put p at 0 (ASCII 48) unités			
+>[-]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 	A (ASCII 65)
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 	B (ASCII 66)
+>[-]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	C (ASCII 67)
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	D (ASCII 68)
+>[-]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	E (ASCII 69)
+>[-]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	I (ASCII 73)
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	P (ASCII 80)
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	R (ASCII 82)
+>[-]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	S (ASCII 83)
+>[-]++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	T (ASCII 84)
+>[-]++++++++++							new line (ASCII 10)
+
+<<<<<<<<<<<<<<<<<						go to j
+
+[										main loop
+	>>>>>>+								add 1 to p
+	<<<<<-								substract 1 to k
+
+	[									if k is not 0
+		>								go to l (always 0)
+	]									go out
+
+	>>									if on k go to m (always 1), if on l go to n (always 0)
+
+	[									if k is 0
+		>>+								add 1 to o
+		>----------						put p to 0 (ASCII 48)
+		<<<<<++++++++++					put k to 10
+		>>>								go to n (always 0)				
+	]
+
+	it is on n
+	<<<<<+								add 1 to i
+	<<<<<<<<							go to a
+
+	[									if a is not 0
+		>>>>							go to e
+		[								if e is not 0 (multiple of nothing)
+			>>>>>>>>>>.					print o
+			>.							print p
+			>>>>>>>>>>>.				print new line
+			<<<<<<<<<<<<<<<<<<<<<		go to f (always 0)
+		]								go out
+
+		>>								if on e go to g (always 1), if on f go to h (always 0)
+
+		[								if e is 0 (multiple of 5)
+			<<+++++						add 5 to e
+			>>							go back to g
+			>>>>>>>>>>>.				print B
+			<.							print A
+			>>>>>>>>>.					print T
+			<.							print S
+			>>.							print new line
+			<<<<<<<<<<<<<<<<<<<			go to h
+		]								go out
+
+		it is on h
+		<<<<<<							go to b (always 0)
+	]									go out
+
+	>>									if on a go to c (always 1), if on b go to d (always 0)
+
+	[									if a is 0			
+		>>								go to e
+		[								if e is not 0 (multiple of 3)
+			<<<<+++						add 3 to a
+			>>>>						go back to e
+			>>>>>>>>>>>>>>.				print C
+			<<.							print A
+			>>>>>>>>>.					print T
+			<.							print S
+			>>.							print new line
+			<<<<<<<<<<<<<<<<<<<<<		go to f (always 0)
+		]								go out
+
+		>>								if on e go to g (always 1), if on f go to h (always 0)
+
+		[								if e is 0 (multiple of 3 and 5)
+			<<+++++						add 5 to e
+			<<<<+++						add 3 to a
+			>>>>>>						go back to g
+			>>>>>>>>>>>>>>>>>>.			print S
+			<<.							print P
+			<.							print I
+			<<.							print D
+			>.							print E
+			>>>.						print R
+			>.							print S
+			>>.							print new line
+			<<<<<<<<<<<<<<<<<<<			go to h (always 0)
+		]								go out
+
+		it is on h
+		<<<<							go to d (always 0)
+	]									go out
+
+	it is on d
+	<<<- 								substract 1 to a
+	>>>>-								substract 1 to e
+	>>>>>-								substract one to j
+]	
