@@ -105,3 +105,7 @@
 #### Name: [Rashmi Bidanta](https://github.com/rbidanta)
 
 - Bio: Graduate Student, USA
+
+### Name: [Michael McClean](https://github.com/mdmcclean)
+
+-Bio: Currently in the Tech Elevator C# bootcamp in Cincinnati, Ohio
