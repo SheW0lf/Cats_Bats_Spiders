@@ -13,6 +13,11 @@
 - Bio: Studying Computer Science
 
 
+### Name: [Sandeep Pillai](https://github.com/Corruption13)
+
+- Bio: Doing first year B.tech Computer Science in Kerala, India.
+
+
 #### Name: [Amaya Lim](https://github.com/nightrainlily)
 
 - Bio: CS major
