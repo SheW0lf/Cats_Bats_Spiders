@@ -113,3 +113,7 @@
 ### Name: [Michael McClean](https://github.com/mdmcclean)
 
 -Bio: Currently in the Tech Elevator C# bootcamp in Cincinnati, Ohio
+
+### Name: [Stephy Miehle](https://github.com/blindingstars)
+
+-Bio: Digital Media Designer & Educator
