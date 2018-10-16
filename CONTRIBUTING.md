@@ -113,3 +113,7 @@
 ### Name: [Michael McClean](https://github.com/mdmcclean)
 
 -Bio: Currently in the Tech Elevator C# bootcamp in Cincinnati, Ohio
+
+### Name: [Aaron M](https://github.com/thisaaronm)
+
+-Bio: Continually Learning...
