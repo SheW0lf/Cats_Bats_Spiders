@@ -2,7 +2,7 @@
 
 """
 Author: Aaron M
-Language: EN-US
+Language: EN-US (or Python...I assumed Python was a given since *.py...)
 Github: https://github.com/thisaaronm
 """
 
