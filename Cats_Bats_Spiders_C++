@@ -1,0 +1,24 @@
+// Author: RuchiraGamage
+// Language: c++
+// Github:https://github.com/RuchiraGamage
+
+#include<iostream>
+
+int main(){
+	for (int i = 1; i <= 100; i++) {
+		if (i % 5 == 0 && i % 3 == 0) {
+			std::cout << "spiders"<<std::endl;
+		}
+		else if (i % 3 == 0) {
+			std::cout << "cats" << std::endl;
+		}
+		else if (i % 5 == 0) {
+			std::cout << "bats" << std::endl; 
+		}
+		else {
+			std::cout << i << std::endl;
+		}
+	}
+
+	return 0;
+}
