@@ -1,0 +1,30 @@
+// Author: Stephy Miehle (blindingstars)
+// Language: SCSS (Sass)
+// Github: https://github.com/blindingstars
+
+// Requires 100 <div class="cell"></div> inside a <div class="container">
+// View a styled implementation at https://codepen.io/blindingstars/pen/WaXEda
+
+.container {
+  counter-reset: cell-number;
+}
+
+.cell {
+  counter-increment: cell-number;
+
+  &:before {
+    content: counter(cell-number);
+  }
+
+  &:nth-of-type(3n):before {
+    content: '\1f431'; // cat
+  }
+
+  &:nth-of-type(5n):before {
+    content: '\1f47b'; // ghost
+  }
+
+  &:nth-of-type(5n):nth-of-type(3n):before {
+    content: '\1f577'; // spider
+  }
+}
