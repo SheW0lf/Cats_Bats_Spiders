@@ -117,3 +117,8 @@
 ### Name: [Vitor Dino](https://github.com/vitordino)
 
 - Bio: [designer & front-end developer](https://vitordino.me)
+
+### Name: [Stephy Miehle](https://github.com/blindingstars)
+
+-Bio: Digital Media Designer & Educator
+
