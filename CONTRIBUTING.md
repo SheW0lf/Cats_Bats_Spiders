@@ -112,7 +112,11 @@
 
 ### Name: [Michael McClean](https://github.com/mdmcclean)
 
--Bio: Currently in the Tech Elevator C# bootcamp in Cincinnati, Ohio
+- Bio: Currently in the Tech Elevator C# bootcamp in Cincinnati, Ohio
+
+### Name: [Derek Burkgren](https://github.com/derekb)
+
+- Bio: Cloud Engineer
 
 ### Name: [Aaron M](https://github.com/thisaaronm)
 
