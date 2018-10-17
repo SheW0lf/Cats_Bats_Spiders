@@ -117,3 +117,17 @@
 ### Name: [Derek Burkgren](https://github.com/derekb)
 
 - Bio: Cloud Engineer
+
+### Name: [Aaron M](https://github.com/thisaaronm)
+
+-Bio: Continually Learning...
+
+### Name: [Vitor Dino](https://github.com/vitordino)
+
+- Bio: [designer & front-end developer](https://vitordino.me)
+
+### Name: [Stephy Miehle](https://github.com/blindingstars)
+
+-Bio: Digital Media Designer & Educator
+
+
