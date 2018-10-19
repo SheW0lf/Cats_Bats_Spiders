@@ -163,3 +163,6 @@
 - Bio: Digital Media Designer & Educator
 
 
+#### Name: [Sarcoma](https://github.com/sarcoma)
+
+- Bio: Designer/Developer [Order & Chaos Creative](https://orderandchaoscreative.com)
