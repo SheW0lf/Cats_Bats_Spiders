@@ -163,3 +163,8 @@
 - Bio: Digital Media Designer & Educator
 
 
+#### Name: [Afiur Rahman Fahim](https://github.com/faahim)
+
+- Bio: Front-end Developer, Bangladesh. Dreaming of making a change while enjoying the process.
+
+
