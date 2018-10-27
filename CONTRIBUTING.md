@@ -172,3 +172,7 @@
 
 - Bio: Designer/Developer [Order & Chaos Creative](https://orderandchaoscreative.com)
 
+#### Name: [A Pruitt](https://github.com/apruitt0321)
+
+- Bio: Python, learning Rust 
+
