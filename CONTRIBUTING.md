@@ -172,6 +172,12 @@
 
 - Bio: Designer/Developer [Order & Chaos Creative](https://orderandchaoscreative.com)
 
+
+#### Name: [Jaldhar H. Vyas](https://github.com/jaldhar)
+
+- Bio: Perl6 fan :-)
+
+
 #### Name: [A Pruitt](https://github.com/apruitt0321)
 
 - Bio: Python, learning Rust 
