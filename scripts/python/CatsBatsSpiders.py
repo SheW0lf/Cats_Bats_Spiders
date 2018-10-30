@@ -6,12 +6,12 @@
 Function takes in a number and prints:
 "spiders" if the number is divisible by both 3 and 5
 "bats" if the number is divisible by 5
-"cats" id the number is divisibe by 3
+"cats" if the number is divisibe by 3
 the number otherwise
 '''
 def catsBatsSpiders(number):
 
-    if number%15 == 0:
+    if number%3 == 0 and number%5 == 0:
         print("spiders")
     elif number%5 == 0:
         print("bats")
