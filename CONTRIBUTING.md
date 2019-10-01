@@ -180,5 +180,7 @@
 
 #### Name: [A Pruitt](https://github.com/apruitt0321)
 
-- Bio: Python, learning Rust 
+- Bio: Python, learning Rust
 
+#### Name: [adityadesle](https://github.com/adityadesle)
+- Bio: Web Developer, javaScript
