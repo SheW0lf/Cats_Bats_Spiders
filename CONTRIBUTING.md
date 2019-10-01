@@ -182,3 +182,6 @@
 
 - Bio: Python, learning Rust 
 
+#### Name: [Pranit Brahmbhatt](https://github.com/pb-10)
+
+- Bio: Web Development, Flutter Development, Python, UI/UX Designer
