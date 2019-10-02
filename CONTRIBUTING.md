@@ -180,5 +180,7 @@
 
 #### Name: [A Pruitt](https://github.com/apruitt0321)
 
-- Bio: Python, learning Rust 
+- Bio: Python, learning Rust
 
+#### Name: [Parth Patel](https://github.com/parth2102)
+  - Bio: Web Developer, C, C++, Python
