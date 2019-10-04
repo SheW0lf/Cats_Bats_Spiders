@@ -182,3 +182,8 @@
 
 - Bio: Python, learning Rust 
 
+
+#### Name: [Becky Wilson](https://github.com/beckyw5)
+
+- Bio: Python with some Unittests 
+
