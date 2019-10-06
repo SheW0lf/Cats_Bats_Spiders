@@ -182,3 +182,6 @@
 
 - Bio: Python, learning Rust 
 
+#### Name: [Herb Wolfe](https://github.com/hwolfe71)
+
+- Bio: Brushing up on my skills. Fan of 'C' and Java.
