@@ -182,3 +182,7 @@
 
 - Bio: Python, learning Rust 
 
+
+#### Name: [Bec Braughton](https://github.com/beckton)
+
+- Bio: I'm a geek who loves programming, design, solving problems, coffee & collecting chocolate frog cards.
